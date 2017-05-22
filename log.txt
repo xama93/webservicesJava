@@ -1,0 +1,9 @@
+
+User:admin Do:LOGIN On:sonda1 At:8:39:00 
+
+User:admin Do:GET On:sonda1 At:8:39:01 
+
+User:admin Do:SET On:sonda1 At:8:39:37 
+
+User:admin Do:GET On:sonda1 At:8:39:38 
+

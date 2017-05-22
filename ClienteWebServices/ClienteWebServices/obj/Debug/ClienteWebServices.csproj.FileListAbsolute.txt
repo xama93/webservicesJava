@@ -1,0 +1,18 @@
+D:\Visual Studio Projects\ClienteWebServices\ClienteWebServices\bin\Debug\ClienteWebServices.exe.config
+D:\Visual Studio Projects\ClienteWebServices\ClienteWebServices\bin\Debug\ClienteWebServices.exe
+D:\Visual Studio Projects\ClienteWebServices\ClienteWebServices\bin\Debug\ClienteWebServices.pdb
+D:\Visual Studio Projects\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.Form1.resources
+D:\Visual Studio Projects\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.Properties.Resources.resources
+D:\Visual Studio Projects\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.exe
+D:\Visual Studio Projects\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.pdb
+C:\Users\EPS\Desktop\ClienteWebServices\ClienteWebServices\bin\Debug\ClienteWebServices.exe.config
+C:\Users\EPS\Desktop\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.exe
+C:\Users\EPS\Desktop\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.pdb
+C:\Users\EPS\Desktop\ClienteWebServices\ClienteWebServices\bin\Debug\ClienteWebServices.exe
+C:\Users\EPS\Desktop\ClienteWebServices\ClienteWebServices\bin\Debug\ClienteWebServices.pdb
+C:\Users\EPS\Desktop\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.csprojResolveAssemblyReference.cache
+C:\Users\EPS\Desktop\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.Form1.resources
+C:\Users\EPS\Desktop\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.Properties.Resources.resources
+C:\Users\EPS\Desktop\ClienteWebServices\ClienteWebServices\obj\Debug\ClienteWebServices.csproj.GenerateResource.Cache

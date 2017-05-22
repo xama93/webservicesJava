@@ -1,0 +1,1 @@
+http://localhost:8080/Sonda1/services/Sonda1?wsdl
